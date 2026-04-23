@@ -1,5 +1,5 @@
-# Mobile Advertising-Analytics
-The goal of this analytics is to find out the key factor impacting whether a mobile user would click on an advertisement or not and predict the percentage change of clicking probability.
+# Mobile Advertising-Analysis
+The goal of this analysis is to find out the key factor impacting whether a mobile user would click on an advertisement or not and predict the percentage change of clicking probability.
 
 # Package
 aspace;
